@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "New Tab Page",
+    "version": "1.0",
+    "description": " This is my First extension Pages",
+    "icons": {
+        "128": "sknew.jpg"
+    },
+
+    "browser_action": {
+      "popup": "sk.html",
+      "default_popup": "sk.html"
+    }
+ }
